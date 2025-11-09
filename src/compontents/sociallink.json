@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "img": "/fb.png",
+        "Link": "#",
+        "media": "facebook"
+    },
+    {
+        "id": 2,
+        "img": "/linkedin.png",
+        "Link": "#",
+        "media": "Linkedin"
+    },
+    {
+        "id": 3,
+        "img": "/yt.png",
+        "Link": "#",
+        "media": "youtube"
+    },
+    {
+        "id": 4,
+        "img": "/insta.png",
+        "Link": "#",
+        "media": "instagram"
+    }
+
+]
