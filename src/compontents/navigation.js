@@ -59,7 +59,7 @@ function Navigation() {
                  
                   <DropdownMenu>
                     <button onClick={() => window.location.href = '/userprofile'} className='w-[72.09vw] h-[5.45vh] flex flex-row justify-between'>
-                      <img src={userImage} alt='user image' className='rounded-full w-[12.14vw] h-[5.45vh]'/>
+                      <Image src={userImage} alt='user image' className='rounded-full w-[12.14vw] h-[5.45vh]'/>
                       <div className='text-[#FFFFFF]'>{userName}</div>
                     </button> 
                   </DropdownMenu>
